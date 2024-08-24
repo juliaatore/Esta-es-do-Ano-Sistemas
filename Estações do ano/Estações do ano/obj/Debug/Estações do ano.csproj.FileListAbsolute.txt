@@ -1,0 +1,10 @@
+C:\Users\CP\Desktop\atividade\Estações do ano\Estações do ano\bin\Debug\Estações do ano.exe.config
+C:\Users\CP\Desktop\atividade\Estações do ano\Estações do ano\bin\Debug\Estações do ano.exe
+C:\Users\CP\Desktop\atividade\Estações do ano\Estações do ano\bin\Debug\Estações do ano.pdb
+C:\Users\CP\Desktop\atividade\Estações do ano\Estações do ano\obj\Debug\Estações do ano.csproj.AssemblyReference.cache
+C:\Users\CP\Desktop\atividade\Estações do ano\Estações do ano\obj\Debug\Estações_do_ano.Properties.Resources.resources
+C:\Users\CP\Desktop\atividade\Estações do ano\Estações do ano\obj\Debug\Estações do ano.csproj.GenerateResource.cache
+C:\Users\CP\Desktop\atividade\Estações do ano\Estações do ano\obj\Debug\Estações do ano.csproj.CoreCompileInputs.cache
+C:\Users\CP\Desktop\atividade\Estações do ano\Estações do ano\obj\Debug\Estações do ano.exe
+C:\Users\CP\Desktop\atividade\Estações do ano\Estações do ano\obj\Debug\Estações do ano.pdb
+C:\Users\CP\Desktop\atividade\Estações do ano\Estações do ano\obj\Debug\Estações_do_ano.Frm_Estacoes.resources
